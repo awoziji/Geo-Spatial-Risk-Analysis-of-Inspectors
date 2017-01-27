@@ -11,7 +11,7 @@ The program implements these steps:
   6. Enhance validation of the results using fuzzy logic address matching.
   
   
-This map produced in Tableau shows the results:
+A map produced in Tableau showing results:
   
 ![was building inspected](https://cloud.githubusercontent.com/assets/11237613/22387459/b943eaec-e4a9-11e6-8b92-95e30aa92bdd.png)
 
