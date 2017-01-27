@@ -10,4 +10,6 @@ The program implements these steps:
   5. Calculate the inspector’s closest distance and address to the target building.
   6. Enhance validation of the results using fuzzy logic address matching.
   7. Produce map to show results.
+  
+![was building inspected](https://cloud.githubusercontent.com/assets/11237613/22387459/b943eaec-e4a9-11e6-8b92-95e30aa92bdd.png)
 
