@@ -9,7 +9,9 @@ The program implements these steps:
   4. If the inspector enters the geofence (is within 1000 feet of the center of the building) of the target building,  label it as              inspected, if not, label as not inspected.
   5. Calculate the inspector’s closest distance and address to the target building.
   6. Enhance validation of the results using fuzzy logic address matching.
-  7. Produce map to show results.
+  
+  
+This map produced in Tableau shows the results:
   
 ![was building inspected](https://cloud.githubusercontent.com/assets/11237613/22387459/b943eaec-e4a9-11e6-8b92-95e30aa92bdd.png)
 
