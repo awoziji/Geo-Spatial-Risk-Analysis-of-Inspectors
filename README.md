@@ -1,7 +1,7 @@
 # Inspection-Tracking-Nearest-Neighbor
 Inspection tracking using nearest neighbor machine learning algorithm and text matching using fuzzy logic
 
-This program uses nearest neighbor algorithm to determine whether building inspectors visited the site they were assigned to inspect. It uses two datasets: the route sheet of sites they were assigned to inspect and data from the inspector's smart phone that periodically sends latitude and longitude coordinates to Verizon's Field Force Management database.
+This program uses a nearest neighbor algorithm to determine whether building inspectors visited the site they were assigned to inspect. It uses two datasets: the route sheet of sites they were assigned to inspect and data from the inspector's smart phone that periodically sends latitude and longitude coordinates to Verizon's Field Force Management database.
 
 The program implements these steps:
   1. Imports data into a pandas data frame and cleans the data.
