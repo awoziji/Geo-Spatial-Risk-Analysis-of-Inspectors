@@ -1,4 +1,3 @@
-# Inspection-Tracking-Nearest-Neighbor
 
 This python program uses a nearest neighbor algorithm to determine whether building inspectors visited a target site the day they were assigned the inspection. It uses two datasets: the route sheet of sites they were assigned to inspect and data from the inspector's smart phone that periodically sends latitude and longitude coordinates to Verizon's Field Force Management database.
 
