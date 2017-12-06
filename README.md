@@ -13,5 +13,5 @@ The program implements these steps:
   
 A map produced in Tableau showing results of perfect match (inspector went to all of the sites) and categorizing an inspection using path analysis:
   
-
+![abu_mahmod_10_4](https://user-images.githubusercontent.com/11237613/33667894-273ca51c-da6c-11e7-9cb5-3623229c7fbc.png)
 
