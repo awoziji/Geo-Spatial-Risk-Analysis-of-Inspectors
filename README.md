@@ -11,7 +11,10 @@ The program implements these steps:
   7. If the phone has a signal drop, determine if inspector went to the inspection site using path analysis.
   
   
-A map produced in Tableau showing results of perfect match (inspector went to all of the sites):
+A map produced in Tableau showing results of perfect match (inspector went to all of the sites)
+Blue = DOB Inspection Site
+Orange = FFM Data
+
   
 ![abu_mahmod_10_4](https://user-images.githubusercontent.com/11237613/33667894-273ca51c-da6c-11e7-9cb5-3623229c7fbc.png)
 
