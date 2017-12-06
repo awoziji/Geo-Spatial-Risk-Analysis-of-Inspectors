@@ -18,6 +18,10 @@ Orange = FFM Data
   
 ![abu_mahmod_10_4](https://user-images.githubusercontent.com/11237613/33667894-273ca51c-da6c-11e7-9cb5-3623229c7fbc.png)
 
+Example of a no match, FFM data shows that inspector did not go to inspection site:
+
+
+
 Example of match using path analysis, this method is useful when phone signal randomly drops off,  the inspection site is labeled as "No" visit, but exists on the path so relabeled as a visit:
 
 ![tom_rac_10_5](https://user-images.githubusercontent.com/11237613/33668225-23767344-da6d-11e7-85f5-848a6819dc9f.png)
